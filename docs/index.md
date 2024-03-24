@@ -1,7 +1,7 @@
 # The Mint Package System
 
 This is the page for the Mint Package System.
-For the package list, go to (<https://www.github.com/StephenMortada/MintPkg.>)
+For the package list, go to <https://www.github.com/StephenMortada/MintPkg>.
 
 ___
 
